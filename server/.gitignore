@@ -14,6 +14,7 @@ cbuild
 /test/
 main
 output/
+packed/pack_data.go
 manifest/config/config.yaml
 manifest/output/
 resource/log/
